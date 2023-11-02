@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**dhammarstrom/dhammarstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Associate Professor at [Inland University of Applied
+Sciences](https://www.inn.no). My research interests include factors
+that explain variability in responses to exercise training. To learn new
+things about my favorite topics I like to integrate statistical methods,
+bioinformatics, and physiological data gathered from exercise training
+studies. My teaching duties include molecular and statistical methods at
+our health and exercise physiology MA program and supervision of BA, MA,
+and Ph.D. students.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m part of the [trainome research group](trainome.github.io),
+collectively we want to better understand why people responds to
+exercise training and find out how we can design better exercise
+training interventions for different populations.
