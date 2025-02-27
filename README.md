@@ -1,6 +1,5 @@
 
-As an Associate Professor at the [Inland University of Applied
-Sciences](https://www.inn.no), where my research interests revolves
+As an Associate Professor at the [University of Inland Norway](https://www.inn.no), where my research interests revolves
 around uncovering factors that contribute to the diverse responses
 individuals exhibit to exercise training. My investigative approach is
 interdisciplinary, weaving together statistical methods, bioinformatics,
